@@ -1,5 +1,7 @@
 # Ejercicio6
 is3
+KARAOKE:
+
 Have you got colour in your cheeks?
 Do you ever get that fear that you can't shift
 The type that sticks around like summat in your teeth?
@@ -69,3 +71,5 @@ Too busy being yours to fall
 Ever thought of calling, darling?
 (Do I wanna know?)
 Do you want me crawling back to you?
+
+LA CANCION ES DE  LOS ARTIC MONKIS
